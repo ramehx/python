@@ -109,7 +109,7 @@ y[50,1] >>	imprime o elemento da linha 49, col 1
 
 np.array([1,2,3]) >> array(1, 2, 3)
 np.array([[1],[2],[3]]) >> array([1],
-								 [2],
-								 [3])
+				 [2],
+				 [3])
 								 
 								  			
